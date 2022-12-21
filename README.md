@@ -19,6 +19,17 @@ It's based on the paper [A Fuzzy Logic-based Control System for Microwave Ovens]
 
 And another website called [Artificial Intelligence Using Fuzzy Systems?](https://tealfeed.com/artificial-intelligence-using-fuzzy-systems-am2lq)
 
+### Micro-wave Oven Fuzzy System
+
+* **Input: TypeOfFood, QuantityOfFood**
+
+* Randomly generate the input of the fuzzy system, the number of the data is 1000000.
+
+* **Output: CookingTime**
+
+* Randomly generate the output of the fuzzy system, the number of the data is 1000000.
+
+
 <center>
     <table>
     <tr>
