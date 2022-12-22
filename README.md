@@ -13,7 +13,7 @@
 
 This repository is for the final project of Fuzzy System.
 
-### Project Description
+### [Project Description](Fuzzy_system.pdf)
 
 It's based on the paper [A Fuzzy Logic-based Control System for Microwave Ovens](https://iopscience.iop.org/article/10.1088/1742-6596/1577/1/012021/pdf).
 
